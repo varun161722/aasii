@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/varun161722/aasii.git"
   },
   "keywords": [
     "Birthday"
@@ -16,9 +16,9 @@
   "author": "Ayush Sharma",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/varun161722/aasii.git/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/varun161722/aasii.git#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
